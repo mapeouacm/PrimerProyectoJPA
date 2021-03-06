@@ -1,1 +1,1 @@
-# PrimerProyectoJPA
+# Primeros pasos con JPA
